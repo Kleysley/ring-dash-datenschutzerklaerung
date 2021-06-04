@@ -10,6 +10,7 @@
 -	Des Weiteren wird bei Knacken eines Highscores der erzielte „Score“ (Punktzahl) automatisch in die besagte Datenbank eingetragen. 
 
 
+
 **Nutzung von Google Analytics**
 
 Wir verwenden Google Analytics, um die App-Nutzung zu analysieren. Die daraus gewonnenen Daten werden genutzt, um Werbemaßnahmen zu optimieren. 
