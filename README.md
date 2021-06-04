@@ -1,8 +1,7 @@
 # Ring Dash Datenschutzerklärung
 
-Datenschutzerklärung Ring Dash
 
-Erfassen von Benutzernamen und Scores
+# Erfassen von Benutzernamen und Scores 
 „Knacken eines Highscores“: eine erzielte Punktzahl ist größer als mindestens eine sich in der Highscoreliste befindenden Punktzahl.
 
 
@@ -11,7 +10,7 @@ Erfassen von Benutzernamen und Scores
 3.	Des Weiteren wird bei Knacken eines Highscores der erzielte „Score“ (Punktzahl) automatisch in die besagte Datenbank eingetragen. 
 
 
-Nutzung von Google Analytics
+# Nutzung von Google Analytics
 
 Wir verwenden Google Analytics, um die App-Nutzung zu analysieren. Die daraus gewonnenen Daten werden genutzt, um Werbemaßnahmen zu optimieren. 
 
