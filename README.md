@@ -2,6 +2,8 @@
 
 
 **Erfassen von Benutzernamen und Scores**
+
+
 „Knacken eines Highscores“: eine erzielte Punktzahl ist größer als mindestens eine sich in der Highscoreliste befindenden Punktzahl.
 
 
@@ -9,7 +11,7 @@
 -	Der „GamerTag“ (Benutzername) wird bei Knacken eines Highscores automatisch in eine für Ring Dash angelegte und für jeden sichtbare Datenbank eingetragen, die auf den Servern der Google-Cloud-Plattform liegt. 
 -	Des Weiteren wird bei Knacken eines Highscores der erzielte „Score“ (Punktzahl) automatisch in die besagte Datenbank eingetragen. 
 
-
+\n
 
 **Nutzung von Google Analytics**
 
