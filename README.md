@@ -1,3 +1,5 @@
+![logo](/featuregraphic.png)
+
 # Ring Dash Datenschutzerklärung
 
 
