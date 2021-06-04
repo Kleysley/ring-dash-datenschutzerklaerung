@@ -1,4 +1,4 @@
-![logo](/featuregraphic.png)
+![logo](/featuregraphic.png | width=100)
 
 # Ring Dash Datenschutzerklärung
 
